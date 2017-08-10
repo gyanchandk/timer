@@ -1,0 +1,35 @@
+body{
+    background-image: url("clock.jpg");
+    background-size: cover;
+    backface-visibility: 
+
+}
+#timer{
+	min-width: 600px;
+	min-height: 300px;
+	text-align: center;
+    margin-top: 100px;
+    text-shadow: 10px 10px 10px black ;
+}
+
+.time{
+	font-size: 150px;
+	color: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+.label{
+	font-size: 100px;
+	color: #ffb3b3;
+	color: rgb(200,200,200);
+	margin-right: 10px;
+}
+#currentTime{
+	position: fixed;
+	top: 0;
+	left: 0;
+	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: rgb(128, 179, 255);
+	text-shadow: 5px 5px 10px white ;
+}
