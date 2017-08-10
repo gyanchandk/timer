@@ -93,5 +93,5 @@ window.onload = function(e){
 }
 
 
-}
+};
 
